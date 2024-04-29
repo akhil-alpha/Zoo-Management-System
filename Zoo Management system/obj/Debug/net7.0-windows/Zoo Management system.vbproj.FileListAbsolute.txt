@@ -1,0 +1,22 @@
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\bin\Debug\net7.0-windows\Zoo Management system.exe
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\bin\Debug\net7.0-windows\Zoo Management system.deps.json
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\bin\Debug\net7.0-windows\Zoo Management system.runtimeconfig.json
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\bin\Debug\net7.0-windows\Zoo Management system.dll
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\bin\Debug\net7.0-windows\Zoo Management system.pdb
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\obj\Debug\net7.0-windows\Zoo_Management_system.Form1.resources
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\obj\Debug\net7.0-windows\Zoo Management system.vbproj.GenerateResource.cache
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\obj\Debug\net7.0-windows\Zoo Management system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\obj\Debug\net7.0-windows\Zoo Management system.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\obj\Debug\net7.0-windows\Zoo Management system.AssemblyInfo.vb
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\obj\Debug\net7.0-windows\Zoo Management system.vbproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\obj\Debug\net7.0-windows\Zoo Management system.dll
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\obj\Debug\net7.0-windows\refint\Zoo Management system.dll
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\obj\Debug\net7.0-windows\Zoo Management system.pdb
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\obj\Debug\net7.0-windows\Zoo Management system.genruntimeconfig.cache
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\obj\Debug\net7.0-windows\ref\Zoo Management system.dll
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\obj\Debug\net7.0-windows\Zoo_Management_system.Form2.resources
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\obj\Debug\net7.0-windows\Zoo_Management_system.Form3.resources
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\obj\Debug\net7.0-windows\Zoo_Management_system.Form4.resources
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\obj\Debug\net7.0-windows\Zoo_Management_system.employee.resources
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\obj\Debug\net7.0-windows\Zoo_Management_system.login.resources
+C:\Users\Win10\source\repos\Zoo Management system\Zoo Management system\obj\Debug\net7.0-windows\Zoo_Management_system.registration.resources
